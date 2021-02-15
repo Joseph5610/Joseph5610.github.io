@@ -41,6 +41,11 @@ blockquote, q {
 	quotes: none;
 }
 
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
 	blockquote:before, blockquote:after, q:before, q:after {
 		content: '';
 		content: none;
